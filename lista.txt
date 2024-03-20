@@ -1,2 +1,0 @@
-esse conteudo2 /dev/stdout
-esse conteudo1
